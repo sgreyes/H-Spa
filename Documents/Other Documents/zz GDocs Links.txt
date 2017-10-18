@@ -1,2 +1,5 @@
 Vision and Scope:
 https://docs.google.com/document/d/1Mpp-abk3l-vsvqplAYr_7uZNMYkgfYbnMfy2lykSlUI/edit?usp=sharing
+
+SRS:
+https://docs.google.com/document/d/14A2kcU1wf5lcairPgiiWluT-hJUiTAJltxhKl1Kt_lE/edit?usp=sharing
