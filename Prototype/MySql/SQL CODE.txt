@@ -4,17 +4,18 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 
 
 CREATE TABLE IF NOT EXISTS `spareservation`.`customer` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
   `cus_fname` VARCHAR(45) NOT NULL,
   `cus_lname` VARCHAR(45) NOT NULL,
   `cus_contact_number` VARCHAR(15) NOT NULL,
+  `cus_email` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
 
 
 CREATE TABLE IF NOT EXISTS `spareservation`.`rooms` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
   `room_num` INT NOT NULL,
   PRIMARY KEY (`id`))
 ENGINE = InnoDB;
@@ -22,7 +23,7 @@ ENGINE = InnoDB;
 
 
 CREATE TABLE IF NOT EXISTS `spareservation`.`employee` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
   `emp_fname` VARCHAR(45) NOT NULL,
   `emp_lname` VARCHAR(45) NOT NULL,
   `emp_position` VARCHAR(45) NOT NULL,
@@ -32,7 +33,7 @@ ENGINE = InnoDB;
 
 
 CREATE TABLE IF NOT EXISTS `spareservation`.`service_booking` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
   `customer_id` INT NOT NULL,
   `employee_id` INT NOT NULL,
   PRIMARY KEY (`id`, `customer_id`, `employee_id`),
@@ -63,13 +64,13 @@ ENGINE = InnoDB;
 
 
 CREATE TABLE IF NOT EXISTS `spareservation`.`service_details` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NOT NULL,
   `services_ID` INT NOT NULL,
   `rooms_id` INT NOT NULL,
   `date` DATE NOT NULL,
   `time_started` TIME(0) NOT NULL,
-  `time_ended` TIME(0) NOT NULL,
+  `time_ended` TIME(0),
   `booking_type` VARCHAR(45) NOT NULL,
   `service_booking_id` INT NOT NULL,
   PRIMARY KEY (`id`, `employee_id`, `services_ID`, `rooms_id`, `service_booking_id`),
