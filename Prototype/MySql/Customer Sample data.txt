@@ -19,7 +19,7 @@ VALUES
 ('Rodriguez', 'Zaldo', '09567332123', 'zaldorod@yahoo.com'),
 ('Macky', 'Serra', '09875627726', 'kymacserra@gmail.com'),
 ('Labro', 'Fulso', '09956432256', 'labso@gmail.com'),
-('Selven', 'Gerry', 'Costey', '09554321135'),
+('Gerry', 'Selven', '09554321135', 'gerven@yahoo.com'),
 ('Borgandi','Layla', 'Quinto', '09854441123'),
 ('Heaven', 'Lim', 'Felix', '09558885543'),
 ('Zamora', 'Francheska', 'Tolosa', '09945763256'),
