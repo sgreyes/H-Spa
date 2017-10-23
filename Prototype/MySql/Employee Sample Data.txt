@@ -13,7 +13,7 @@ VALUES
 ('Jermaine', 'Guzman', 'Massage Therapist'), 
 ('Cherrie', 'Locsin', 'Receptionist'), 
 ('Melody', 'Sanrio', 'Senior Massage Therapist'),
-(14, 'Marquez', 'John', 'R', 'Receptionist')
+('John', 'Marquez', 'Receptionist')
 
 
 
