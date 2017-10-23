@@ -1,7 +1,7 @@
 INSERT INTO employee (emp_fname, emp_lname, emp_position)
 VALUES
 ('Vincent', 'Barcelona', 'Receptionist'),
-(2, 'Manuel', 'Jake', 'G', 'Receptionist'), 
+('Jake', 'Manuel', 'Receptionist'), 
 (3, 'Locsin', 'Patricia', 'H', 'Receptionist'), 
 (4, 'Tahimic', 'Monica', 'I', 'Receptionist'), 
 (5, 'Pitt', 'Robin', 'C', 'Massage Therapist'), 
