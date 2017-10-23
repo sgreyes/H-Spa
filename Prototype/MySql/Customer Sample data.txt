@@ -51,4 +51,4 @@ VALUES
 ('Zamolochikova', 'Yekaterina', '08877990087', 'chikoterina@yahoo.com'),
 ('Coulee', 'Shea', '09554356721', 'sheacoulee47@gmail.com'),
 ('Andrews', 'Pluto', '09765433219', 'plandrew@gmail.com'),
-('Mattel', 'Trixie', 'Barbie', '09565678980'),
+('Mattel', 'Trixie', '09565678980', 'trix.mattel@gmail.com'),
