@@ -21,7 +21,7 @@ VALUES
 ('Labro', 'Fulso', '09956432256', 'labso@gmail.com'),
 ('Gerry', 'Selven', '09554321135', 'gerven@yahoo.com'),
 ('Layla', 'Quinto', '09854441123', 'quintol@yahoo.com'),
-('Heaven', 'Lim', 'Felix', '09558885543'),
+('Lim', 'Felix', '09558885543', 'felim@gmail.com'),
 ('Zamora', 'Francheska', 'Tolosa', '09945763256'),
 ('Burgos', 'Clarence', 'Viganto', '09357788832'),
 ('Yurie', 'Brendon', 'Belgian', '09276668754'),
