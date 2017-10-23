@@ -7,7 +7,7 @@ VALUES
 ('Robin', 'Pitt', 'Massage Therapist'), 
 ('Mikaela', 'Lopez', 'Massage Therapist'), 
 ('Rick', 'Hollin', 'Manager'),
-(8, 'Rizal', 'Jose', 'F', 'Spa Staff'), 
+('Jose', 'Rizal', 'Spa Staff'), 
 (9, 'Marquez', 'Jules', 'A', 'Massage Therapist'), 
 (10, 'Bosco', 'Marie', 'B', 'Senior Massage Therapist'), 
 (11, 'Guzman', 'Jermaine', 'J', 'Massage Therapist'), 
