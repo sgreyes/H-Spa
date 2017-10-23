@@ -1,5 +1,6 @@
-INSERT INTO employee (ID, Last_Name, First_Name, Middle_Name ,Position) 
-VALUES (1, 'Barcelona', 'Vincent', 'C', 'Receptionist'), 
+INSERT INTO employee (emp_fname, emp_lname, emp_position)
+VALUES
+('Barcelona', 'Vincent', 'Receptionist'),
 (2, 'Manuel', 'Jake', 'G', 'Receptionist'), 
 (3, 'Locsin', 'Patricia', 'H', 'Receptionist'), 
 (4, 'Tahimic', 'Monica', 'I', 'Receptionist'), 
@@ -12,6 +13,7 @@ VALUES (1, 'Barcelona', 'Vincent', 'C', 'Receptionist'),
 (11, 'Guzman', 'Jermaine', 'J', 'Massage Therapist'), 
 (12, 'Locsin', 'Cherrie', 'R', 'Receptionist'), 
 (13, 'Sanrio', 'Melody', 'H', 'Senior Massage Therapist'),
-(14, 'Marquez', 'John', 'R', 'Receptionist'),
+(14, 'Marquez', 'John', 'R', 'Receptionist')
+
 
 
