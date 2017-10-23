@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `spareservation`.`service_booking` (
     FOREIGN KEY (`customer_id`)
     REFERENCES `spareservation`.`customer` (`id`)
     ON DELETE NO ACTION
-    ON UPDATE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
 
