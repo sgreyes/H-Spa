@@ -36,7 +36,7 @@ VALUES
 ('Heriberto', 'Aryon', '09276544321', 'her.aryon@gmail.com'),
 ('Dale', 'Rollins', '09955554789', 'droll@gmail.com'),
 ('Paton', 'Demitri', '09755432221', 'patond.demitri@gmail.com'),
-('Stefan', 'Bobby', 'Hasani', '09276432556'),
+('Stefan', 'Bobby', '09276432556', 'bhstefan@gmail.com'),
 ('Cruz', 'Nessy', 'Contigo', '09556687936'),
 ('Rien', 'Kaleb', 'Hunt', '09553321456'),
 ('Gregory', 'Istvan', 'Mihailo', '09275554356'),
