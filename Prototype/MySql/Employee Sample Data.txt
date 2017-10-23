@@ -9,7 +9,7 @@ VALUES
 ('Rick', 'Hollin', 'Manager'),
 ('Jose', 'Rizal', 'Spa Staff'), 
 ('Jules', 'Marquez', 'Massage Therapist'), 
-(10, 'Bosco', 'Marie', 'B', 'Senior Massage Therapist'), 
+('Marie', 'Bosco', 'Senior Massage Therapist'), 
 (11, 'Guzman', 'Jermaine', 'J', 'Massage Therapist'), 
 (12, 'Locsin', 'Cherrie', 'R', 'Receptionist'), 
 (13, 'Sanrio', 'Melody', 'H', 'Senior Massage Therapist'),
