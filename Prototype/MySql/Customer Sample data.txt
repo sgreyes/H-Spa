@@ -30,7 +30,7 @@ VALUES
 ('Zoro', 'Hunter', '09977898964', 'zorro@gmail.com'),
 ('Vinsmoke', 'Sanji', '09956784432', 'vinsan.ji@yahoo.com'),
 ('Roe', 'Jairo', '09979554221', 'jairoe@yahoo.com'),
-('Tanner', 'Rolly', 'Aaric', '09956789030'),
+('Tanner', 'Rolly', '09956789030', 'trolly@yahoo.com'),
 ('Everardo', 'Brennan', 'Lavar', '09277893332'),
 ('Evans', 'Chris', 'Arda', '09956678434'),
 ('Yerik', 'Heriberto', 'Aryon', '09276544321'),
