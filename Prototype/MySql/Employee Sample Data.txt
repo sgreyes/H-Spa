@@ -12,7 +12,7 @@ VALUES
 ('Marie', 'Bosco', 'Senior Massage Therapist'), 
 ('Jermaine', 'Guzman', 'Massage Therapist'), 
 ('Cherrie', 'Locsin', 'Receptionist'), 
-(13, 'Sanrio', 'Melody', 'H', 'Senior Massage Therapist'),
+('Melody', 'Sanrio', 'Senior Massage Therapist'),
 (14, 'Marquez', 'John', 'R', 'Receptionist')
 
 
