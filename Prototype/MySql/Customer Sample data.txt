@@ -16,7 +16,7 @@ VALUES
 ('Ham', 'Gray', '09879086544', 'mrgraham@gmail.com'),
 ('Lino', 'Kelp', '09897766890', 'kelpcoral@gmail.com'),
 ('Luna', 'Bean', '09876009901', 'mistahbean@gmail.com'),
-('Rodriguez', 'Cross', 'Zaldo', '09567332123'),
+('Rodriguez', 'Zaldo', '09567332123', 'zaldorod@yahoo.com'),
 ('Diaz', 'Macky', 'Serra', '09875627726'),
 ('Labro', 'Gart', 'Fulso', '09956432256'),
 ('Selven', 'Gerry', 'Costey', '09554321135'),
