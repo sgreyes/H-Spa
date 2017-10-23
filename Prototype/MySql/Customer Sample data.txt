@@ -43,7 +43,7 @@ VALUES
 ('Leni', 'Gregorio', '09978985654', 'lgorio@yahoo.com'),
 ('Curry', 'Vinales', '09276657732', 'vinary@gmail.com'),
 ('Tatyanna', 'Eszter', '09976664321', 'eztyan.anna@gmail.com'),
-('Heath', 'Barbie', 'Chiara', '09276658876'),
+('Heath', 'Barbie', '09276658876', 'barbheath@gmail.com'),
 ('Courtney', 'Leah', 'Orla', '09955432211'),
 ('Sydney', 'Allyssa', 'Rosina', '09985558775'),
 ('Kylee', 'Amie', 'Rally', '09966533271'),
