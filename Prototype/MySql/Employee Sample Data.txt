@@ -5,7 +5,7 @@ VALUES
 ('Patricia', 'Locsin', 'Receptionist'), 
 ('Monica', 'Tahimic', 'Receptionist'), 
 ('Robin', 'Pitt', 'Massage Therapist'), 
-(6, 'Lopez', 'Mikaela', 'Y', 'Massage Therapist'), 
+('Mikaela', 'Lopez', 'Massage Therapist'), 
 (7, 'Hollin', 'Rick', 'R', 'Manager'),
 (8, 'Rizal', 'Jose', 'F', 'Spa Staff'), 
 (9, 'Marquez', 'Jules', 'A', 'Massage Therapist'), 
