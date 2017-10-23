@@ -39,7 +39,7 @@ VALUES
 ('Stefan', 'Bobby', '09276432556', 'bhstefan@gmail.com'),
 ('Cruz', 'Nessy', '09556687936', 'nessycc@gmail.com'),
 ('Kaleb', 'Hunt', '09553321456', 'kahunt@yahoo.com'),
-('Gregory', 'Istvan', 'Mihailo', '09275554356'),
+('Gregory', 'Mihailo', '09275554356', 'gmihailo@yahoo.com'),
 ('Paz', 'Leni', 'Gregorio', '09978985654'),
 ('Curry', 'Chanel', 'Vinales', '09276657732'),
 ('Tatyanna', 'Eszter', 'Corinne', '09976664321'),
