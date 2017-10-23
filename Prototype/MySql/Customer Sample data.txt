@@ -12,7 +12,7 @@ VALUES
 ('Alejandro', 'Roberto', '09786543012', 'alejandro@yahoo.com'),
 ('Forbes', 'Nami', '09678564532', 'nforbes@yahoo.com'),
 ('Vallado', 'Jamie', '09876540981', 'vallado@gmail.com'),
-('Grey', 'Alexander', 'Button', '09097890675'),
+('Grey', 'Alexander', '09097890675', 'alexgrey@gmail.com'),
 ('Ham', 'Gray', 'Fajardo', '09879086544'),
 ('Juno', 'Lino', 'Kelp', '09897766890'),
 ('Luna', 'Kirah', 'Bean', '09876009901'),
