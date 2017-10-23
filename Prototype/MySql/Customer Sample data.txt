@@ -49,6 +49,6 @@ VALUES
 ('Kylee', 'Amie', '09966533271', 'amie.kylee@gmail.com'),
 ('Sasha', 'Jupiter', '098908070606', 'jupiter.sasha98@gmail.com'),
 ('Zamolochikova', 'Yekaterina', 'Petrovna', '08877990087'),
-('Coulee', 'Shea', 'Neptune', '09554356721'),
+('Coulee', 'Shea', '09554356721', 'sheacoulee47@gmail.com'),
 ('Andrews', 'Roxxxy', 'Pluto', '09765433219'),
 ('Mattel', 'Trixie', 'Barbie', '09565678980'),
