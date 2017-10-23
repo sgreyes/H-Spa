@@ -9,7 +9,7 @@ VALUES
 ('Zobel', 'Jean', '09257799076', 'jzdiaz@gmail.com'),
 ('Carbo', 'Ruth', '09998765456', 'carruth@yahoo.com'),
 ('Gomez', 'Rick', '09756792134', 'gomezr@gmail.com'),
-('Alejandro', 'Roberto', 'Faux', '09786543012'),
+('Alejandro', 'Roberto', '09786543012', 'alejandro@yahoo.com'),
 ('Forbes', 'Nami', 'Lopez', '09678564532'),
 ('Vallado', 'Jamie', 'Delta', '09876540981'),
 ('Grey', 'Alexander', 'Button', '09097890675'),
