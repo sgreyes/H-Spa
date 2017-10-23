@@ -1,4 +1,4 @@
-INSERT INTO CUSTOMER (Last_Name, First_Name, Middle_Name, Contact_Number) 
+INSERT INTO customer (cus_fname, cus_lname, cus_contact_number, cus_email) 
 
 VALUES 
 ('Bonchi', 'Carlo', 'Alfonso', '09156871825'), 
