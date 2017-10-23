@@ -32,7 +32,7 @@ VALUES
 ('Roe', 'Jairo', '09979554221', 'jairoe@yahoo.com'),
 ('Tanner', 'Rolly', '09956789030', 'trolly@yahoo.com'),
 ('Everardo', 'Brennan', '09277893332', 'bren.everardo@yahoo.com'),
-('Evans', 'Chris', 'Arda', '09956678434'),
+('Evans', 'Chris', '09956678434', 'chris.evans@gmail.com'),
 ('Yerik', 'Heriberto', 'Aryon', '09276544321'),
 ('Tremaine', 'Dale', 'Rollins', '09955554789'),
 ('Paton', 'Jelly', 'Demitri', '09755432221'),
