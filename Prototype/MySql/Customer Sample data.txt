@@ -44,7 +44,7 @@ VALUES
 ('Curry', 'Vinales', '09276657732', 'vinary@gmail.com'),
 ('Tatyanna', 'Eszter', '09976664321', 'eztyan.anna@gmail.com'),
 ('Heath', 'Barbie', '09276658876', 'barbheath@gmail.com'),
-('Courtney', 'Leah', 'Orla', '09955432211'),
+('Courtney', 'Leah', '09955432211', 'leah.courtney@gmail.com'),
 ('Sydney', 'Allyssa', 'Rosina', '09985558775'),
 ('Kylee', 'Amie', 'Rally', '09966533271'),
 ('Velour', 'Sasha', 'Jupiter', '098908070606'),
