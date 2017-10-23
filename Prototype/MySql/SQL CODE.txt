@@ -35,20 +35,13 @@ ENGINE = InnoDB;
 CREATE TABLE IF NOT EXISTS `spareservation`.`service_booking` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `customer_id` INT NOT NULL,
-  `employee_id` INT NOT NULL,
-  PRIMARY KEY (`id`, `customer_id`, `employee_id`),
+  PRIMARY KEY (`id`, `customer_id`),
   INDEX `fk_service_booking_customer_idx` (`customer_id` ASC),
-  INDEX `fk_service_booking_employee1_idx` (`employee_id` ASC),
   CONSTRAINT `fk_service_booking_customer`
     FOREIGN KEY (`customer_id`)
     REFERENCES `spareservation`.`customer` (`id`)
     ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `fk_service_booking_employee1`
-    FOREIGN KEY (`employee_id`)
-    REFERENCES `spareservation`.`employee` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON UPDATE NO ACTION
 ENGINE = InnoDB;
 
 
