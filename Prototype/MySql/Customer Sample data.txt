@@ -8,7 +8,7 @@ VALUES
 ('Orosco','Caryl', '09352954092', 'caryljohanan.orosco@gmail.com'),
 ('Zobel', 'Jean', '09257799076', 'jzdiaz@gmail.com'),
 ('Carbo', 'Ruth', '09998765456', 'carruth@yahoo.com'),
-('Gomez', 'Rick', 'Gomez', '09756792134'),
+('Gomez', 'Rick', '09756792134', 'gomezr@gmail.com'),
 ('Alejandro', 'Roberto', 'Faux', '09786543012'),
 ('Forbes', 'Nami', 'Lopez', '09678564532'),
 ('Vallado', 'Jamie', 'Delta', '09876540981'),
