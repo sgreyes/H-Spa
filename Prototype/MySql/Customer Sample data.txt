@@ -3,7 +3,7 @@ INSERT INTO customer (cus_fname, cus_lname, cus_contact_number, cus_email)
 
 VALUES
 ('Carlo', 'Bonchi', '09156871825', 'carbon@yahoo.com'),
-('Robin', 'Christopher', 'Magallanes', '09123561928'), 
+('Christopher', 'Magallanes', '09123561928', 'chris@yahoo.com'), 
 ('Mike', 'Zuckberger', '09255047382', 'mikeberger@gmail.com'), 
 ('Orosco','Caryl', 'Cahit', '09352954092'),
 ('Zobel', 'Jean', 'Diaz', '09257799076'),
