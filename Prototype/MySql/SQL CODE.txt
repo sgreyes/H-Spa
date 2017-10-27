@@ -32,7 +32,7 @@ ENGINE = InnoDB;
 
 
 
-CREATE TABLE IF NOT EXISTS `spareservation`.`service_booking` (
+CREATE TABLE IF NOT EXISTS `spareservation`.`reservation` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `customer_id` INT NOT NULL,
   PRIMARY KEY (`id`, `customer_id`),
@@ -56,12 +56,13 @@ ENGINE = InnoDB;
 
 
 
-CREATE TABLE IF NOT EXISTS `spareservation`.`service_details` (
+CREATE TABLE IF NOT EXISTS `spareservation`.`reservation_details` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `employee_id` INT NOT NULL,
   `services_ID` INT NOT NULL,
   `rooms_id` INT NOT NULL,
   `date` DATE NOT NULL,
+  `duration` TIME(0) NOT NULL,
   `time_started` TIME(0) NOT NULL,
   `time_ended` TIME(0),
   `booking_type` VARCHAR(45) NOT NULL,
